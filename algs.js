@@ -545,7 +545,7 @@ var Algs = (function () {
 			{ id: "37_2",  alg: "y' R U2 R' F R' F' R2 U2 R'", kind: "zbll" },
 			{ id: "37_3",  alg: "F R' F' R U R U' R'", kind: "zbll" },
 			{ id: "37_4",  alg: "F R U' R' U' R U R' F'", kind: "zbll" },
-			{ id: "37_5",  alg: "y F R' F' R U R' F' R U R U' R' F R U' R'", kind: "zbll" },
+			{ id: "37_5",  alg: "F R' F' R U R' F' R U R U' R' F R U' R'", kind: "zbll" },
 			{ id: "37_6",  alg: "F R U' R' U2 R U R' F' R U R' U' R' F R F'", kind: "zbll" },
 			{ id: "33_1",  alg: "r U r' R U R' U' R r U' r' F R' F'", kind: "zbll" },
 			{ id: "33_2",  alg: "R U' R' U' F' U2 F R' F R F'", kind: "zbll" },
